@@ -8,5 +8,3 @@ This is my second capstone project from the side hustle internship (Group 90)
 4. Validation was done with HTML 
 5. The footer was done with CSS
 
-## Problems 
-Other group members were inactive and I had to carried out the whole project alone. I tried various methods of form validation with JS but I couldn't get it to work.
